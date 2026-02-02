@@ -1,0 +1,3 @@
+Login with valid credentials and verify dashboard title.
+Search for a product 'Laptop' and check results page shows items.
+Logout and verify user is redirected to login page.

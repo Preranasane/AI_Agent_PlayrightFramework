@@ -1,0 +1,9 @@
+base_url: "https://rahulshettyacademy.com/loginpagePractise/"
+credentials:
+  username: "rahulshettyacademy"
+  password: "Learning@830$3mK2"
+selectors:
+  login:
+    username: "//input[@id='username']"
+    password: "//input[@id='password']"
+    submit: "//input[@value='Sign In']"
